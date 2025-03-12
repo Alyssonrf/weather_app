@@ -1,0 +1,12 @@
+com.example.weather_app-jetified-annotation-experimental-1.1.0-0 C:\Users\alyss\.gradle\caches\transforms-3\4529cd9db265d21866bb643ee8d397a7\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.weather_app-core-1.6.0-1 C:\Users\alyss\.gradle\caches\transforms-3\77b4a06127fb36c7d77b9d617d08902a\transformed\core-1.6.0\res
+com.example.weather_app-jetified-window-1.0.0-beta04-2 C:\Users\alyss\.gradle\caches\transforms-3\87da41db39e09187ba992a68ecbb6aeb\transformed\jetified-window-1.0.0-beta04\res
+com.example.weather_app-jetified-window-java-1.0.0-beta04-3 C:\Users\alyss\.gradle\caches\transforms-3\ae96c778c3807ec740afeaba5f047214\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.weather_app-debug-4 C:\Users\alyss\Documents\Portifolio\Flutter Projects\weather_app\weather_app\android\app\src\debug\res
+com.example.weather_app-main-5 C:\Users\alyss\Documents\Portifolio\Flutter Projects\weather_app\weather_app\android\app\src\main\res
+com.example.weather_app-pngs-6 C:\Users\alyss\Documents\Portifolio\Flutter Projects\weather_app\weather_app\build\app\generated\res\pngs\debug
+com.example.weather_app-resValues-7 C:\Users\alyss\Documents\Portifolio\Flutter Projects\weather_app\weather_app\build\app\generated\res\resValues\debug
+com.example.weather_app-rs-8 C:\Users\alyss\Documents\Portifolio\Flutter Projects\weather_app\weather_app\build\app\generated\res\rs\debug
+com.example.weather_app-mergeDebugResources-9 C:\Users\alyss\Documents\Portifolio\Flutter Projects\weather_app\weather_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.weather_app-mergeDebugResources-10 C:\Users\alyss\Documents\Portifolio\Flutter Projects\weather_app\weather_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.weather_app-merged_res-11 C:\Users\alyss\Documents\Portifolio\Flutter Projects\weather_app\weather_app\build\app\intermediates\merged_res\debug
